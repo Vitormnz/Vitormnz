@@ -1,5 +1,5 @@
 - 👋 Olá eu sou, @Vitormnz;
-- 👀 Estou interessado em aprender sobre tecnolofias tanto para meu desenvolvimento pessoal como profissional; 
+- 👀 Estou interessado em aprender tecnologias tanto para meu desenvolvimento pessoal como profissional; 
  - 🌱 Estou aprendendo no momento: Html, Css, Python, Javascript e pretendo aprender depois o Flutter(dart).  
 
 <!---
