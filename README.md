@@ -1,6 +1,6 @@
 - 👋 Olá eu sou, @Vitormnz;
 - 👀 Estou interessado em aprender tecnologias tanto para meu desenvolvimento pessoal como profissional; 
- - 🌱 Estou aprendendo no momento: Html, Css, java e Javascript. 
+ - 🌱 Estou aprendendo no momento: C#, SQL, java e Javascript. 
 
 <!---
 Vitormnz/Vitormnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
