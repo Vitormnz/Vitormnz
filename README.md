@@ -1,20 +1,24 @@
-👋 Olá! Eu sou o Vitor (@Vitormnz)
+# 👋 Olá! Eu sou o Vitor (@Vitormnz)
 
-💻 Atualmente, atuo como **estagiário de desenvolvimento fullstack**, participando de projetos internos e contribuindo ativamente com a construção de sistemas em **React (frontend)** e **C# (.NET - backend)**.
+💻 Desenvolvedor Fullstack com foco em React (frontend) e C# (.NET) no backend.  
+Atuo na construção de APIs REST, dashboards e sistemas internos com organização, boas práticas e visão de arquitetura.
 
-🚀 Tenho focado meu crescimento em:
-- Criação de **interfaces interativas** e **dashboards funcionais** com React e Tailwind;
-- Desenvolvimento de **APIs REST** utilizando boas práticas e arquitetura SOLID com C#;
-- Integração com serviços externos (como **IBGE**, **D4Sign**, etc.);
-- Escrita de **documentação técnica** clara e objetiva (frontend e backend);
-- Trabalho colaborativo em ambientes ágeis, participando de **dailies, code reviews e deploys**.
+## 🚀 Experiência prática
+- Desenvolvimento de interfaces interativas com React + Tailwind  
+- Criação de APIs estruturadas com .NET (SOLID, camadas, EF)  
+- Modelagem e consultas em SQL Server  
+- Integração com serviços externos (IBGE, D4Sign, etc.)  
+- Documentação técnica e melhoria contínua de código  
 
-📚 Tecnologias com as quais venho trabalhando:
-- **Frontend**: React, JavaScript, TailwindCSS
-- **Backend**: C# (.NET), SQL Server
-- **Outros**: Git, Swagger, Postman, Trello, JIRA, Clockify
+## 🧩 Stack
+**Frontend:** React, JavaScript, TailwindCSS  
+**Backend:** C#, .NET, Entity Framework, SQL Server  
+**Ferramentas:** Git, Swagger, Postman, JIRA, Trello  
 
-📈 Sempre em busca de aprender e me desenvolver — tanto tecnicamente quanto como membro de equipe.
+## 📈 Foco atual
+Arquitetura de software, performance, clean code e evolução fullstack profissional.
 
-🔗 Vamos conectar?  
-[LinkedIn](https://www.linkedin.com/in/vitormnz) | [GitHub](https://github.com/Vitormnz)
+---
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/vitormnz  
+🧑‍💻 **GitHub:** https://github.com/Vitormnz
