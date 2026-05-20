@@ -1,24 +1,66 @@
-# 👋 Olá! Eu sou o Vitor (@Vitormnz)
+```md id="ghclean01"
+<div align="center">
 
-💻 Desenvolvedor Fullstack com foco em React (frontend) e C# (.NET) no backend.  
-Atuo na construção de APIs REST, dashboards e sistemas internos com organização, boas práticas e visão de arquitetura.
+# Vitor H. M. Bichara
 
-## 🚀 Experiência prática
-- Desenvolvimento de interfaces interativas com React + Tailwind  
-- Criação de APIs estruturadas com .NET (SOLID, camadas, EF)  
-- Modelagem e consultas em SQL Server  
-- Integração com serviços externos (IBGE, D4Sign, etc.)  
-- Documentação técnica e melhoria contínua de código  
+Desenvolvedor Fullstack com foco em React, .NET e arquitetura de software.
 
-## 🧩 Stack
-**Frontend:** React, JavaScript, TailwindCSS  
-**Backend:** C#, .NET, Entity Framework, SQL Server  
-**Ferramentas:** Git, Swagger, Postman, JIRA, Trello  
+<p>
+  <a href="https://www.linkedin.com/in/vitormnz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Vitormnz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 📈 Foco atual
-Arquitetura de software, performance, clean code e evolução fullstack profissional.
+</div>
+
+<br>
+
+## Sobre
+
+Desenvolvedor com experiência em aplicações web, APIs REST e sistemas internos, utilizando React no frontend e C#/.NET no backend.
+
+Tenho foco em organização de código, arquitetura, manutenção e construção de aplicações escaláveis.
+
+Atualmente aprofundando conhecimentos em arquitetura de software, performance, clean code e engenharia fullstack.
 
 ---
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/vitormnz  
-🧑‍💻 **GitHub:** https://github.com/Vitormnz
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,vite,html,css" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql,git" />
+</p>
+
+---
+
+## Projetos
+
+### Mini_Drive
+Projeto de estudos voltado para armazenamento e manipulação de arquivos utilizando C#.
+
+### DataStructures
+Projeto criado para revisão e estudo de estruturas de dados e algoritmos.
+
+### api-estudos
+Projeto focado em arquitetura backend utilizando .NET e organização em camadas.
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitormnz&show_icons=true&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitormnz&layout=compact&hide_border=true" />
+
+</div>
+```
