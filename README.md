@@ -1,66 +1,67 @@
-```md id="ghclean01"
 <div align="center">
 
 # Vitor H. M. Bichara
 
-Desenvolvedor Fullstack com foco em React, .NET e arquitetura de software.
+Desenvolvedor Fullstack focado em React, .NET e arquitetura de software.
 
-<p>
-  <a href="https://www.linkedin.com/in/vitormnz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/Vitormnz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+.NET+%E2%80%A2+APIs+REST;Arquitetura+de+Software;Clean+Code+e+Escalabilidade" />
 
 <br>
 
-## Sobre
+<a href="https://www.linkedin.com/in/vitormnz">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Desenvolvedor com experiência em aplicações web, APIs REST e sistemas internos, utilizando React no frontend e C#/.NET no backend.
+<a href="https://github.com/Vitormnz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Tenho foco em organização de código, arquitetura, manutenção e construção de aplicações escaláveis.
-
-Atualmente aprofundando conhecimentos em arquitetura de software, performance, clean code e engenharia fullstack.
-
----
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,vite,html,css" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql,git" />
-</p>
+</div>
 
 ---
 
-## Projetos
+# Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,javascript,tailwind,vite,cs,dotnet,nodejs,mysql,git" />
+
+</div>
+
+---
+
+# Sobre
+
+Desenvolvedor com experiência em desenvolvimento de APIs REST, dashboards e sistemas internos.
+
+Foco em:
+- arquitetura de software
+- organização de código
+- manutenção
+- performance
+- escalabilidade
+
+---
+
+# Projetos
 
 ### Mini_Drive
-Projeto de estudos voltado para armazenamento e manipulação de arquivos utilizando C#.
+Projeto de estudos sobre armazenamento e manipulação de arquivos utilizando C#.
 
 ### DataStructures
-Projeto criado para revisão e estudo de estruturas de dados e algoritmos.
+Projeto voltado para revisão prática de estruturas de dados e algoritmos.
 
 ### api-estudos
 Projeto focado em arquitetura backend utilizando .NET e organização em camadas.
 
 ---
 
-## Estatísticas
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitormnz&show_icons=true&hide_border=true" />
+### Contato
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitormnz&layout=compact&hide_border=true" />
+<a href="https://www.linkedin.com/in/vitormnz">LinkedIn</a> • 
+<a href="https://github.com/Vitormnz">GitHub</a>
 
 </div>
-```
